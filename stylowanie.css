@@ -1,0 +1,37 @@
+.baner{
+    background-color: darkgreen;
+    height: 50px;
+    text-align: center;
+}
+
+.lewy{
+    background-color: darkolivegreen;
+    height: 950px;
+    width: 20%;
+    float: left;
+}
+
+.srodek{
+    background-color: darkslategray;
+    height: 950px;
+    width: 60%;
+    float: left;
+}
+
+.prawy{
+    background-color: dimgray;
+    height: 950px;
+    width: 20%;
+    float: left;
+}
+
+.stopka{
+    background-color: darkgreen;
+    height: 100px;
+    text-align: center;
+    clear: both;
+}
+
+body{
+    color: white;
+}
